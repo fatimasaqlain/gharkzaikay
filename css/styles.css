@@ -1,5 +1,43 @@
 .navbar-brand img{
-width: 200px
+width:  100px
+
+
+}
+
+.container{
+ position relative;
+}
+.form{
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+}
+
+#fb_subcontainer{
+  width: 80%; 
+  height: 500px;
+}
+  
+
+  #mapbox{
+
+      box-shadow: 10px 10px 20px #888888;
+
+
+
+  }
+
+@media screen and (max-width: 850px){
+
+  .display-4{
+
+    font-size: 30px;
+
+  }
+
+
+
 
 
 }
