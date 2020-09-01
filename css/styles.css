@@ -1,5 +1,5 @@
 @font-face {
-  font-family: vivaldii;
+  font-family: vivaldi;
   src: url("../assets/fonts/VIVALDII.TTF")
 }
 .navbar-brand img {
@@ -89,7 +89,7 @@
   align-items: center;
 }
 #title {
-  font-family: vivaldii;
+  font-family: vivaldi;
   font-size: 150px;
   color: #F19D5D;
   margin: 50px;
